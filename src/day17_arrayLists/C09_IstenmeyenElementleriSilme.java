@@ -29,7 +29,7 @@ public class C09_IstenmeyenElementleriSilme {
     }
 
 
-    //Soru 3- Verilen String bir listede
+    //Soru - Verilen String bir listede
     //        istenmeyen harf iceren elementleri silip,
     //        kalan kismini list olarak bize donduren bir method olusturun
 
