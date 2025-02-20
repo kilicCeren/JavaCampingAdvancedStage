@@ -20,11 +20,11 @@ public class C01_PassByValue {
     }
 
 
-    public static void uzunlukYazdir(String str){
+    public static void uzunlukYazdir(String str) {
 
         // cumle'nin uzunlugunu yazdirin
 
-        System.out.println("Verilen cumlenin uzunlugu : " + str. length());
+        System.out.println("Verilen cumlenin uzunlugu : " + str.length());
 
         /*
             cumle variable'i main method icerisinde olusturuldugu icin
@@ -38,7 +38,7 @@ public class C01_PassByValue {
          */
     }
 
-    public static void buyukHarfeCevir(String cumle){
+    public static void buyukHarfeCevir(String cumle) {
 
         cumle = cumle.toUpperCase();
 
